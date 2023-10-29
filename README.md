@@ -13,4 +13,4 @@
 
 ### Cons
 - Slows development time: The time that we would've put towards developing a particular project, is now split between writing functional code and writing tests. Therefore, it can slow down time to production.
-- Tests can be moody if not written well: If the test is not written well, we might see a possibility where tiny (non-breaking) changes can break the test.
+- Tests can fail easily if not written well: If the test is not written well, we might see a possibility where tiny (non-breaking) changes can break the test.
