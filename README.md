@@ -1,8 +1,8 @@
 # ECE444-F2023-Lab5
 
 ## Unit testing commits to web-app
-https://github.com/ECE444-2023Fall/project-1-web-application-design-group11-webwizards/blob/main/react-frontend/src/CreateFlyer/components/dialog/index.spec.js#L1-L65
-https://github.com/ECE444-2023Fall/project-1-web-application-design-group11-webwizards/blob/main/react-frontend/src/CreateFlyer/index.spec.js#L1-L18
+- https://github.com/ECE444-2023Fall/project-1-web-application-design-group11-webwizards/blob/main/react-frontend/src/CreateFlyer/components/dialog/index.spec.js#L1-L65
+- https://github.com/ECE444-2023Fall/project-1-web-application-design-group11-webwizards/blob/main/react-frontend/src/CreateFlyer/index.spec.js#L1-L18
 
 ## Pros and Cons of TDD
 #### Note: The following information is based on the lab 5 slides (see: https://q.utoronto.ca/courses/324733/files/folder/Lab/Slides?preview=28310824)
