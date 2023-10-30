@@ -12,7 +12,7 @@
 
 **Note:** The following pros are based on the "What can TDD do? - Benefits" in the Lab 5 slides (see: https://q.utoronto.ca/courses/324733/files/folder/Lab/Slides?preview=28310824
 
-- Ensures that code we put out is free of errors. When working on big changes, there is some scope for unexpected behaviors to creep in. The tests help prevent this scenario, since we can be confident that the code is free of errors.
+- Ensures that code put out is free of errors. When working on big changes, there can be some scope for unexpected behaviors to creep in. The tests help prevent this scenario, by giving more confidence that the code is free of errors.
 - Allocates appropriate time for writing tests. I've personally noticed a tendency in myself to quickly write tests for faster deployment. In TDD, this is avoided since the tests are written before the code.
 
 ### Cons
@@ -20,4 +20,4 @@
 
 **Note:** The following con is based on my understanding of the "Final Comments" in the lab 5 slides (see: https://q.utoronto.ca/courses/324733/files/folder/Lab/Slides?preview=28310824
 
-- Tests can fail easily if not written well: If the test is not written well, we might see a possibility where the test could pass when it should not, or can easily be made to fail by unrelated changes.
+- Tests can fail easily if not written well: If the test is not written well, there can be a possibility where the test could pass when it should not, or can easily be made to fail by unrelated changes.
