@@ -16,7 +16,7 @@
 - Allocates appropriate time for writing tests. I've personally noticed a tendency in myself to quickly write tests for faster deployment. In TDD, this is avoided since the tests are written before the code.
 
 ### Cons
-- Slows development time: The time that we would've put towards developing a particular project, is now split between writing functional code and writing tests. Therefore, it can slow down time to production.
+- Slows development time: The time that I would've put towards developing a particular project, is now split between writing functional code and writing tests. Therefore, I belive it can slow down time to production.
 
 **Note:** The following con is based on my understanding of the "Final Comments" in the lab 5 slides (see: https://q.utoronto.ca/courses/324733/files/folder/Lab/Slides?preview=28310824
 
