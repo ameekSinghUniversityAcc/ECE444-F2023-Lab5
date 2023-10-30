@@ -15,7 +15,7 @@ https://github.com/mjhea0/flaskr-tdd
 
 **Note:** The following pros are based on the "What can TDD do? - Benefits" in the Lab 5 slides (see: https://q.utoronto.ca/courses/324733/files/folder/Lab/Slides?preview=28310824
 
-- Ensures that code put out is free of errors. When working on big changes, there can be some scope for unexpected behaviors to creep in. The tests help prevent this scenario, by giving more confidence that the code is free of errors.
+- Increases confidence in deployment. When working on big changes, there can be some scope for unexpected behaviors to creep in. The tests help prevent this scenario, by giving more confidence that the code is robust.
 - Allocates appropriate time for writing tests. I've personally noticed a tendency in myself to quickly write tests for faster deployment. In TDD, this is avoided since the tests are written before the code.
 
 ### Cons
