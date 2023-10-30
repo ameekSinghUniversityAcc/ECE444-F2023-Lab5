@@ -1,5 +1,8 @@
 # ECE444-F2023-Lab5
 
+## The steps outlined in the following repo were replayed in this example:
+https://github.com/mjhea0/flaskr-tdd
+
 ## Unit testing commits to web-app
 - https://github.com/ECE444-2023Fall/project-1-web-application-design-group11-webwizards/blob/main/react-frontend/src/CreateFlyer/components/dialog/index.spec.js#L1-L65
 - https://github.com/ECE444-2023Fall/project-1-web-application-design-group11-webwizards/blob/main/react-frontend/src/CreateFlyer/index.spec.js#L1-L18
