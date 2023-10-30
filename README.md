@@ -8,8 +8,8 @@
 
 ## Pros and Cons of TDD
 ### Pros
-**Note:** The following pros are based on the "What can TDD do?" in the Lab 5 slides (see: https://q.utoronto.ca/courses/324733/files/folder/Lab/Slides?preview=28310824
 - Helps ensure that test cases (user journeys) do not get missed when writing code. When writing code, I often find myself forgetting/ignoring certain user scenarios. By having the tests written in advance, I can make sure that the code does not miss key user scenarios.
+**Note:** The following pros are based on the "What can TDD do?" in the Lab 5 slides (see: https://q.utoronto.ca/courses/324733/files/folder/Lab/Slides?preview=28310824
 - Ensures that code we put out is free of errors. When working on big changes, there is some scope for unexpected behaviors to creep in. The tests help prevent this scenario, since we can be confident that the code is free of errors.
 - Allocates appropriate time for writing tests. I've personally noticed a tendency in myself to quickly write tests for faster deployment. In TDD, this is avoided since the tests are written before the code.
 
